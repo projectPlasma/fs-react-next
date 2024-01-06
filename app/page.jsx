@@ -8,6 +8,6 @@ const Home = () => {
 
 export default Home;
 
-// NEXT-JS website section: "Rendering  => Rendering"
+// NEXT-JS website section: "Optimizing"  => "Script Optimization"
 
 // JS Mastery => 'Completed'
